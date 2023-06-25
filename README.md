@@ -1,4 +1,4 @@
-# Working with Systen.IO
+# Working with System.IO
 This is the third mini project of the official **Build .NET applications with C#** course in the Microsoft Learn platform.
 
 ## Objectives
