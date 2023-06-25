@@ -4,7 +4,7 @@ This is the third mini project of the official **Build .NET applications with C#
 ## Objectives
 - Read files from the file system.
 - Create cross-platform paths with the Directory and Path classes.
-- Will continue with the rest of the tasks tomorrow.
+- Reading and writing files by using the File class and a JSON parser
 
 ## Used commands
 
